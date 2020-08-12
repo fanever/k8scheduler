@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/kube-scheduler:v1.18.6
+FROM k8s.gcr.io/kube-scheduler:v1.15.1
 MAINTAINER fanever
